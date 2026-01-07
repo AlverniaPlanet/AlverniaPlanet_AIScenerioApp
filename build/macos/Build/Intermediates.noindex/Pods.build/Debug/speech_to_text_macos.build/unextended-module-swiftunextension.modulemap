@@ -1,0 +1,4 @@
+
+module speech_to_text_macos.__Swift {
+  exclude header "speech_to_text_macos-Swift.h"
+}

@@ -1,0 +1,5 @@
+
+module speech_to_text_macos.Swift {
+  header "speech_to_text_macos-Swift.h"
+  requires objc
+}

@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/speech_to_text_macos-primary.dia",
+    "emit-module-dependencies" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/speech_to_text_macos-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/speech_to_text_macos-primary-emit-module.dia",
+    "pch" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/speech_to_text_macos-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/speech_to_text_macos-primary.swiftdeps"
+  },
+  "/Users/a1234/.pub-cache/hosted/pub.dev/speech_to_text_macos-1.1.0/macos/Classes/SpeechToTextMacosPlugin.swift" : {
+    "const-values" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.swiftconstvalues",
+    "dependencies" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.d",
+    "diagnostics" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.o",
+    "llvm-bc" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.bc",
+    "object" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.o",
+    "swift-dependencies" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin.swiftdeps",
+    "swiftmodule" : "/Users/a1234/Desktop/Alvernia/Scenarzystka - final/scenario/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text_macos.build/Objects-normal/x86_64/SpeechToTextMacosPlugin~partial.swiftmodule"
+  }
+}
